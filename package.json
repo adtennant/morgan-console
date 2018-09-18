@@ -1,6 +1,6 @@
 {
   "name": "morgan-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Morgan wrapper that logs using console.info/console.error.",
   "license": "MIT",
   "author": "Alex Tennant <alex@adtennant.co.uk>",
