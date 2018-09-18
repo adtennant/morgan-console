@@ -1,7 +1,14 @@
 {
   "name": "morgan-console",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Morgan wrapper that logs using console.info/console.error.",
+  "keywords": [
+    "express",
+    "http",
+    "logger",
+    "middleware",
+    "console"
+  ],
   "license": "MIT",
   "author": "Alex Tennant <alex@adtennant.co.uk>",
   "main": "index.js",
