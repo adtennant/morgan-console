@@ -1,6 +1,6 @@
 {
   "name": "morgan-console",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Morgan wrapper that logs using console.info/console.error.",
   "keywords": [
     "express",
@@ -32,5 +32,8 @@
   },
   "peerDependencies": {
     "morgan": "1.x"
+  },
+  "engines": {
+    "node": ">=6.0.0"
   }
 }
