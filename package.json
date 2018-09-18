@@ -1,0 +1,29 @@
+{
+  "name": "morgan-console",
+  "version": "1.0.0",
+  "description": "Morgan wrapper that logs using console.info/console.error.",
+  "license": "MIT",
+  "author": "Alex Tennant <alex@adtennant.co.uk>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adtennant/morgan-console"
+  },
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "split": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "peerDependencies": {
+    "morgan": "1.x"
+  }
+}
