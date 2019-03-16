@@ -1,6 +1,6 @@
 # Morgan Console
 
-![npm](https://img.shields.io/npm/v/npm.svg) ![license](https://img.shields.io/npm/l/node-readme.svg)
+![npm](https://img.shields.io/npm/v/npm.svg) ![license](https://img.shields.io/npm/l/morgan-console.svg)
 
 [morgan](https://github.com/expressjs/morgan) wrapper that logs using `console.info`/`console.error`. For use in environments where the `process.stdout`/`process.stderr` don't work, e.g. Google Cloud Functions.
 
